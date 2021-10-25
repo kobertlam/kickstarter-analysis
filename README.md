@@ -9,7 +9,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-- Here is the link to the [Kickstarter_Challenge.xlsx] file(Kickstarter_Challenge.xlsx).
+- Here is the link to the [Kickstarter_Challenge.xlsx] file(./Kickstarter_Challenge.xlsx).
 - ![Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 - pt B
 
