@@ -11,7 +11,7 @@
 ### Analysis of Outcomes Based on Launch Date
 ![Outcomes Based on Launch Date](resources/Theater_Outcomes_vs_Launch.png)
 - We can see that the months of May and June both have a greater success rate.
-- The months of May, Jun, Jul, Aug and Oct have similar high number of failure rate.
+- The months of May, Jun, Jul, Aug and Oct have similarly high number of failure rate.
 - The canceled rate in January is the highest.
 - Here is the link to [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx).
 
@@ -22,7 +22,7 @@
 - Here is the link to [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx).
 
 ### Challenges and Difficulties Encountered
-- One challenge is to setup `COUNTIFS` formulas for in the sheet "Outcomes Based on Goals". By copy and paste the formulas to other columns without using absolute cell reference will require lots of updates in the formula. By adding absolute cell reference, it make my live easier!
+- One challenge is to setup `COUNTIFS` formulas in the sheet "Outcomes Based on Goals". By copy and paste the formulas to other columns without using absolute cell reference will require lots of updates in the formula. By adding absolute cell reference, it makes my life easier!
 ``` 
 =COUNTIFS(Kickstarter!D:D,">=5000",Kickstarter!D:D,"<=9999",Kickstarter!F:F,"successful",Kickstarter!R:R,"plays")
 =COUNTIFS(Kickstarter!$D:$D,">=5000",Kickstarter!$D:$D,"<=9999",Kickstarter!$F:$F,"successful",Kickstarter!$R:$R,"plays")
