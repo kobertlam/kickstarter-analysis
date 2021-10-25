@@ -3,20 +3,17 @@
 ## Overview of Project
 
 ### Purpose
-
 - Louise's play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. 
 - Using the Kickstarter dataset, I visualize campaign outcomes based on their launch dates and their funding goals, and provide this written report based on my analysis and the visualizations created here.
 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
-- Here is the link to [Outcomes Based on Launch Date Chart](https://pages.github.com/).
+- Here is the link to [Outcomes Based on Launch Date Chart](resources/Theater_Outcomes_vs_Launch.png).
 - pt B
 
 ### Analysis of Outcomes Based on Goals
-
-- pt A
+- Here is the link to [Outcomes Based on Goals](resources/Outcomes_vs_Goals.png).
 - pt B
 
 ### Challenges and Difficulties Encountered
