@@ -13,7 +13,7 @@
 - pt B
 
 ### Analysis of Outcomes Based on Goals
-- Here is the link to [Outcomes Based on Goals](resources/Outcomes_vs_Goals.png).
+- Here is the link to [Outcomes Based on Goals Chart](resources/Outcomes_vs_Goals.png).
 - pt B
 
 ### Challenges and Difficulties Encountered
