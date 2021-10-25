@@ -30,14 +30,18 @@
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 The month that launched the most successful Kickstarter campaigns was May.
 However, May, June, July, August and October all had roughly the same number of failed campaigns launched.
 
 - What can you conclude about the Outcomes based on Goals?
+
 It is more likely to have successful outcome if the Goal is less than $1000, or between $1000 to $1500.
 
 - What are some limitations of this dataset?
+
 The latest data was drawn from 2017, which is a little outdated. It is suggested to extract some recent data from the internet, in order to make the results more updated.
 
 - What are some other possible tables and/or graphs that we could create?
+
 We may further filtering the graphs with the Country like GB or US, depending on where Louise is planning perform the play, to make the results more specific and realistic. 
