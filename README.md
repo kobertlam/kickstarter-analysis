@@ -44,4 +44,4 @@ The latest data was drawn from 2017, which is a little outdated. It is suggested
 
 - What are some other possible tables and/or graphs that we could create?
 
-We may further filtering the graphs with the Country like GB or US, depending on where Louise is planning perform the play, to make the results more specific and realistic. 
+We may further filtering the graphs with the Country like GB or US, depending on where Louise is planning to perform the play, to make the results more specific and realistic. 
