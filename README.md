@@ -22,12 +22,12 @@
 - Here is the link to [Kickstarter_Challenge.xlsx](Kickstarter_Challenge.xlsx).
 
 ### Challenges and Difficulties Encountered
-- One challenge is to setup `COUNTIFS` formulas in the sheet "Outcomes Based on Goals". By copy and paste the formulas to other columns without using absolute cell reference will require lots of updates in the formula. By adding absolute cell reference (using the shortcut **Fn-F4**), it makes my life easier!
+1. One challenge is to setup `COUNTIFS` formulas in the sheet "Outcomes Based on Goals". By copy and paste the formulas to other columns without using absolute cell reference will require lots of updates in the formula. By adding absolute cell reference (using the shortcut **Fn-F4**), it makes my life easier!
 ``` 
 =COUNTIFS(Kickstarter!D:D,">=5000",Kickstarter!D:D,"<=9999",Kickstarter!F:F,"successful",Kickstarter!R:R,"plays")
 =COUNTIFS(Kickstarter!$D:$D,">=5000",Kickstarter!$D:$D,"<=9999",Kickstarter!$F:$F,"successful",Kickstarter!$R:$R,"plays")
 ```
-- Another challenge is to reduce the Excel file size. The Excel file size is over 45M, and it is mainly due to too large of "used range" in the worksheet "Successful US Kickstarters" and "Failed US Kickstarters". I google the solution and find this https://www.excelefficiency.com/reduce-excel-file-size/#1_Remove_8220blank_space8221_in_your_sheets to describe how to clear the unneccessary "used range". Afterwards, the file size now reduce to under 3M!
+2. Another challenge is to reduce the Excel file size. The Excel file size is over 45M, and it is mainly due to too large of "used range" in the worksheet "Successful US Kickstarters" and "Failed US Kickstarters". I google the solution and find this https://www.excelefficiency.com/reduce-excel-file-size/#1_Remove_8220blank_space8221_in_your_sheets to describe how to clear the unneccessary "used range". Afterwards, the file size now reduce to under 3M!
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
@@ -41,7 +41,8 @@ It is more likely to have successful outcome if the Goal is less than $1000, or 
 
 - What are some limitations of this dataset?
 
-The latest data was drawn from 2017, which is a little outdated. It is suggested to extract some recent data from the internet, in order to make the results more update-to-date.
+1. The latest data was drawn from 2017, which is a little outdated. It is suggested to extract some recent data from the internet, in order to make the results more update-to-date.
+2.It is assumed that the currency of the amount shown in the "Goals" is the same even the campaigns were took place from different countries. If not, the results should be totally different.   
 
 - What are some other possible tables and/or graphs that we could create?
 
