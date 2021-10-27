@@ -41,7 +41,7 @@ It is more likely to have successful outcome if the Goal is less than $1000, or 
 
 - What are some limitations of this dataset?
 
-The latest data was drawn from 2017, which is a little outdated. It is suggested to extract some recent data from the internet, in order to make the results more updated.
+The latest data was drawn from 2017, which is a little outdated. It is suggested to extract some recent data from the internet, in order to make the results more update-to-date.
 
 - What are some other possible tables and/or graphs that we could create?
 
