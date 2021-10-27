@@ -42,7 +42,7 @@ It is more likely to have successful outcome if the Goal is less than $1000, or 
 - What are some limitations of this dataset?
 
 1. The latest data was drawn from 2017, which is a little outdated. It is suggested to extract some recent data from the internet, in order to make the results more update-to-date.
-2. It is assumed that the currency of the amount shown in the "Goals" is the same even the campaigns were took place from different countries. If not, the results should be totally different.   
+2. It is assumed that the currency of the amount shown in the "Goals" is the same even the campaigns were took place from different countries. If not, the results would be totally different.   
 
 - What are some other possible tables and/or graphs that we could create?
 
